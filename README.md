@@ -3,6 +3,10 @@
 # 📍 Mapping Unhealthy Diets and Predicting Adult Obesity in Greater London  
 ### A Spatial Data Science Project using R, OLS, Random Forests, and Policy Simulation
 
+<p align="center">
+  <img src="Screenshot 2025-11-15 121822.png" width="800">
+</p>
+
 ---
 
 ## 📘 Overview  
